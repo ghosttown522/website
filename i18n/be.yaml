@@ -1,39 +1,72 @@
-- id: prev_page
-  translation: "Папярэдняя"
+toggleMenu:
+    other: Паказаць/схаваць меню
 
-- id: next_page
-  translation: "Наступная"
+darkMode:
+    other: Цёмны рэжым
 
-- id: read_time
-  translation:
-    zero: "0 хвілін"
-    one: "1 хвіліна"
-    few: "{{ .Count }} хвіліны"
-    many: "{{ .Count }} хвілін"
-    other: "{{ .Count }} хвілін"
+list:
+    page:
+        one: "{{ .Count }} старонка"
+        few: "{{ .Count }} старонкі"
+        many: "{{ .Count }} старонак"
+        other: "{{ .Count }} старонкі"
 
-- id: words
-  translation:
-    zero: "няма слоў"
-    one: "1 слова"
-    few: "{{ .Count }} слова"
-    many: "{{ .Count }} слоў"
-    other: "{{ .Count }} слова"
+    section:
+        other: Раздзел
 
-- id: toc
-  translation: "Змест"
+    subsection:
+        one: Падраздзел
+        few: Падраздзелы
+        many: Падраздзелы
+        other: Падраздзелы
 
-- id: translations
-  translation: "Пераклады"
+article:
+    back:
+        other: Назад
 
-- id: home
-  translation: "Галоўная"
+    relatedContent:
+        other: Таксама рэкамендуем
 
-- id: edit_post
-  translation: "Рэдагаваць"
+    lastUpdatedOn:
+        other: Абноўлена
 
-- id: code_copy
-  translation: "капіяваць"
+    tableOfContents: 
+        other: Змест
 
-- id: code_copied
-  translation: "скапіявана!"
+    readingTime: 
+        other: "Час чытання: {{ .Count }} хв."
+
+notFound:
+    title:
+        other: Не знойдзена
+
+    subtitle:
+        other: Запытваемая старонка не існуе
+
+widget:
+    archives:
+        title:
+            other: Архівы
+        more:
+            other: Яшчэ
+
+    tagCloud:
+        title:
+            other: Тэгі
+
+search:
+    title:
+        other: Пошук
+
+    placeholder:
+        other: Увядзіце нешта...
+
+    resultTitle:
+        other: "Знайдзена #PAGES_COUNT старонак (за #TIME_SECONDS с.)"
+
+footer:
+    builtWith:
+        other: Створана пры дапамозе {{ .Generator }}
+
+    designedBy:
+        other: Тэма {{ .Theme }}, дызайн {{ .DesignedBy }}

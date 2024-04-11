@@ -1,33 +1,71 @@
-- id: prev_page
-  translation: "Predch"
+toggleMenu:
+    other: Skryť menu
 
-- id: next_page
-  translation: "Ďaľší"
+darkMode:
+    other: Tmavý režim
 
-- id: read_time
-  translation:
-    one : "1 min"
-    other: "{{ .Count }} min"
+list:
+    page:
+        one: "{{ .Count }} stránka"
+        other: "{{ .Count }} stránok"
 
-- id: words
-  translation:
-    one : "slovo"
-    other: "{{ .Count }} slov"
+    section:
+        other: Kategórie
 
-- id: toc
-  translation: "Obsah"
+    subsection:
+        one: Podkategória
+        other: Podkategórie
 
-- id: translations
-  translation: "Preklady"
+article:
+    back:
+        other: Späť
 
-- id: home
-  translation: "Domov"
+    tableOfContents:
+        other: Obsah
 
-- id: edit_post
-  translation: "Upraviť"
+    relatedContent:
+        other: Súvisiace
 
-- id: code_copy
-  translation: "kopírovať"
+    lastUpdatedOn:
+        other: Naposledy aktualizované
 
-- id: code_copied
-  translation: "skopírované!"
+    readingTime:
+        one: "{{ .Count }} minúta"
+        other: "{{ .Count }} minút"
+
+notFound:
+    title:
+        other: Nenájdené
+
+    subtitle:
+        other: Tato stránka neexistuje
+
+widget:
+    archives:
+        title:
+            other: Archívy
+        more:
+            other: Viac
+    tagCloud:
+        title:
+            other: Štítky
+    categoriesCloud:
+        title:
+            other: Kategórie
+
+search:
+    title:
+        other: Hladať
+
+    placeholder:
+        other: Zadajte niečo...
+
+    resultTitle:
+        other: "#PAGES_COUNT stránok (#TIME_SECONDS sekúnd)"
+
+footer:
+    builtWith:
+        other: Vytvorené pomocou {{ .Generator }}
+
+    designedBy:
+        other: Šablóna {{ .Theme }} od {{ .DesignedBy }}

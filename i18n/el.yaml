@@ -1,33 +1,70 @@
-- id: prev_page
-  translation: "Προηγούμενο"
+toggleMenu:
+    other: Εναλλαγή Μενού
 
-- id: next_page
-  translation: "Επόμενο"
+darkMode:
+    other: Σκοτεινό θέμα
 
-- id: read_time
-  translation:
-    one: "1 λεπτό"
-    other: "{{ .Count }} λεπτά"
+list:
+    page:
+        one: "{{ .Count }} σελιδα"
+        other: "{{ .Count }} σελιδες"
 
-- id: words
-  translation:
-    one: "λέξη"
-    other: "{{ .Count }} λέξεις"
+    section:
+        other: Ενότητα
 
-- id: toc
-  translation: "Πίνακας Περιεχομένων"
+    subsection:
+        one: Υποενότητα
+        other: Υποενότητες
 
-- id: translations
-  translation: "Μεταφράσεις"
+article:
+    back:
+        other: Πισω
 
-- id: home
-  translation: "Αρχική"
+    tableOfContents:
+        other: Πινακας περιεχομενων
 
-- id: edit_post
-  translation: "Επεξεργασία"
+    relatedContent:
+        other: Σχετικο περιεχομενο
 
-- id: code_copy
-  translation: "αντιγραφή"
+    lastUpdatedOn:
+        other: Τελευταια τροποποιηση στις
 
-- id: code_copied
-  translation: "αντιγράφηκε!"
+    readingTime:
+        one: "{{ .Count }} λεπτό ανάγνωσης"
+        ### Seems that there's no need to add 's' even if it's plural in English
+        other: "{{ .Count }} λεπτά ανάγνωσης"
+
+notFound:
+    title:
+        other: Δε βρέθηκε
+    subtitle:
+        other: Η σελίδα δε βρέθηκε.
+
+widget:
+    archives:
+        title:
+            other: Αρχειο
+
+        more:
+            other: Περισσότερα
+
+    tagCloud:
+        title:
+            other: Tags
+
+search:
+    title:
+        other: Αναζήτηση
+
+    placeholder:
+        other: Πληκτρολογήστε κάτι...
+
+    resultTitle:
+        other: "#PAGES_COUNT σελιδες (#TIME_SECONDS δευτερολεπτα)"
+
+footer:
+    builtWith:
+        other: Δημιουργήθηκε με τη χρήση {{ .Generator }}
+
+    designedBy:
+        other: Το θέμα {{ .Theme }} σχεδιάστηκε από το {{ .DesignedBy }}

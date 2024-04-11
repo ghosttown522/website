@@ -1,33 +1,70 @@
-- id: prev_page
-  translation: "ก่อนหน้า"
+toggleMenu:
+    other: สลับเมนู
 
-- id: next_page
-  translation: "ถัดไป"
+darkMode:
+    other: ธีมมืด
 
-- id: read_time
-  translation:
-    one : "1 นาที"
-    other: "{{ .Count }} นาที"
+list:
+    page:
+        one: "{{ .Count }} หน้า"
+        other: "{{ .Count }} หน้า"
 
-- id: words
-  translation:
-    one : "คำ"
-    other: "{{ .Count }} คำ"
+    section:
+        other: หมวดหมู่
 
-- id: toc
-  translation: "สารบัญ"
+    subsection:
+        one: หมวดหมู่ย่อย
+        other: หมวดหมู่ย่อยอื่นๆ
 
-- id: translations
-  translation: "การแปล"
+article:
+    back:
+        other: กลับไป
 
-- id: home
-  translation: "หน้าหลัก"
+    tableOfContents:
+        other: สารบัญ
 
-- id: edit_post
-  translation: "แก้ไข"
+    relatedContent:
+        other: เนื้อหาคล้ายคลึงกัน
 
-- id: code_copy
-  translation: "คัดลอก"
+    lastUpdatedOn:
+        other: อัปเดตล่าสุดเมื่อ
 
-- id: code_copied
-  translation: "คัดลอกแล้ว!"
+    readingTime:
+        one: "น่าจะใช้เวลา {{ .Count }} นาทีในการอ่าน"
+        other: "น่าจะใช้เวลา {{ .Count }} นาทีในการอ่าน"
+
+notFound:
+    title:
+        other: ไม่พบหัวข้อ
+
+    subtitle:
+        other: ไม่พบหน้านี้ในระบบ
+
+widget:
+    archives:
+        title:
+            other: เนื้อหาที่เก็บถาวรแล้ว
+
+        more:
+            other: อื่นๆ นอกจากนี้
+
+    tagCloud:
+        title:
+            other: แท็ก
+
+search:
+    title:
+        other: ค้นหา
+
+    placeholder:
+        other: พิมพ์เพื่อค้นหา ...
+
+    resultTitle:
+        other: "#PAGES_COUNT pages (#TIME_SECONDS seconds)"
+
+footer:
+    builtWith:
+        other: ถูกสร้างด้วย {{ .Generator }}
+
+    designedBy:
+        other: ธีม {{ .Theme }} ออกแบบโดย {{ .DesignedBy }}

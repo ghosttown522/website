@@ -1,33 +1,82 @@
-- id: prev_page
-  translation: "Poprzednia"
+toggleMenu:
+    other: Przełącz Menu
 
-- id: next_page
-  translation: "Następna"
+darkMode:
+    other: Tryb ciemny
 
-- id: read_time
-  translation:
-      one: "1 min"
-      other: "{{ .Count }} min"
+list:
+    page:
+        one: "{{ .Count }} strona"
+        few: "{{ .Count }} strony"
+        many: "{{ .Count }} stron"
+        other: "{{ .Count }} stron"
 
-- id: words
-  translation:
-    one : "słowo"
-    other: "{{ .Count }} słów"
+    section:
+        other: Sekcja
 
-- id: toc
-  translation: "Spis treści"
+    subsection:
+        one: Podsekcja
+        few: Podsekcje
+        many: Podsekcji
+        other: Podsekcji
 
-- id: translations
-  translation: "Tłumaczenia"
+article:
+    back:
+        other: Wróć
 
-- id: home
-  translation: "Strona Główna"
+    tableOfContents:
+        other: Spis treści
 
-- id: edit_post
-  translation: "Edytuj"
+    relatedContent:
+        other: Powiązane artykuły
 
-- id: code_copy
-  translation: "Kopiuj"
+    lastUpdatedOn:
+        other: Ostatnio zaktualizowany
 
-- id: code_copied
-  translation: "Skopiowano!"
+    readingTime:
+        one: "Przeczytasz w {{ .Count }} minutę"
+        few: "Przeczytasz w {{ .Count }} minuty"
+        many: "Przeczytasz w {{ .Count }} minut"
+        other: "Przeczytasz w {{ .Count }} minut"
+
+notFound:
+    title:
+        other: Nie znaleziono
+    subtitle:
+        other: Ta strona nie istnieje
+
+widget:
+    archives:
+        title:
+            other: Archiwum
+
+        more:
+            other: Więcej
+
+    tagCloud:
+        title:
+            other: Tagi
+
+    categoriesCloud:
+        title:
+            other: Kategorie
+
+search:
+    title:
+        other: Szukaj
+
+    placeholder:
+        other: Wpisz coś...
+
+    resultTitle:
+        one: "#PAGES_COUNT strona (#TIME_SECONDS sekund)"
+        few: "#PAGES_COUNT strony (#TIME_SECONDS sekund)"
+        many: "#PAGES_COUNT stron (#TIME_SECONDS sekund)"
+        other: "#PAGES_COUNT stron (#TIME_SECONDS sekund)"
+
+footer:
+    builtWith:
+        other: Zbudowano z {{ .Generator }}
+
+    designedBy:
+        other: Motyw {{ .Theme }} zaprojektowany przez {{ .DesignedBy }}

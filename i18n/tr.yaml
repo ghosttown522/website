@@ -1,33 +1,53 @@
-- id: prev_page
-  translation: "Önceki"
+toggleMenu:
+    other: Menüyü Gizle
 
-- id: next_page
-  translation: "Sonraki"
+darkMode:
+    other: Koyu Mod
 
-- id: read_time
-  translation:
-    one : "1 dk"
-    other: "{{ .Count }} dk"
+list:
+    page:
+        one: "{{ .Count }} makale"
+        other: "{{ .Count }} makale"
 
-- id: words
-  translation:
-    one : "kelime"
-    other: "{{ .Count }} kelime"
+    section:
+        other: Bölüm
 
-- id: toc
-  translation: "İçindekiler"
+    subsection:
+        one: Alt bölüm
+        other: Alt bölümler
 
-- id: translations
-  translation: "Çeviriler"
+article:
+    relatedContent:
+        other: Alakalı içerikler
+    lastUpdatedOn:
+        other: Son güncelleme
 
-- id: home
-  translation: "Anasayfa"
+notFound:
+    title:
+        other: Bulunamadı
+    subtitle:
+        other: Aradığınız sayfa mevcut değil.
 
-- id: edit_post
-  translation: "Düzenle"
+widget:
+    archives:
+        title:
+            other: Arşiv
+        more:
+            other: Daha fazla
+    tagCloud:
+        title:
+            other: Etiketler
 
-- id: code_copy
-  translation: "Kopyala"
+search:
+    title:
+        other: Arama
+    placeholder:
+        other: Birşeyler yazın...
+    resultTitle:
+        other: "#PAGES_COUNT sayfa (#TIME_SECONDS saniye)"
 
-- id: code_copied
-  translation: "Kopyalandı!"
+footer:
+    builtWith:
+        other: "{{ .Generator }} ile oluşturuldu."
+    designedBy:
+        other: "{{ .Theme }} teması {{ .DesignedBy }} tarafından tasarlandı"
