@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Markdown on My Blog</title>
-        <link>http://localhost:1313/tags/markdown/</link>
+        <link>https://ghosttown522.github.io/tags/markdown/</link>
         <description>Recent content in Markdown on My Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ghosttown522.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Markdown Syntax Guide</title>
-        <link>http://localhost:1313/posts/markdown-syntax/</link>
+        <link>https://ghosttown522.github.io/posts/markdown-syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/posts/markdown-syntax/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/markdown-syntax/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+        <guid>https://ghosttown522.github.io/posts/markdown-syntax/</guid>
+        <description>&lt;img src="https://ghosttown522.github.io/posts/markdown-syntax/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
         </item>
         <item>
         <title>Placeholder Text</title>
-        <link>http://localhost:1313/posts/placeholder-text/</link>
+        <link>https://ghosttown522.github.io/posts/placeholder-text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/posts/placeholder-text/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+        <guid>https://ghosttown522.github.io/posts/placeholder-text/</guid>
+        <description>&lt;img src="https://ghosttown522.github.io/posts/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
         </item>
         
     </channel>

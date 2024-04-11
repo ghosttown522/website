@@ -2,94 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>My Blog</title>
-        <link>http://localhost:1313/</link>
+        <link>https://ghosttown522.github.io/</link>
         <description>Recent content on My Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Fri, 12 Apr 2024 01:41:43 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>My First Post</title>
-        <link>http://localhost:1313/posts/my-first-post/</link>
-        <pubDate>Fri, 12 Apr 2024 01:41:43 +0800</pubDate>
-        
-        <guid>http://localhost:1313/posts/my-first-post/</guid>
-        <description>&lt;img src="https://booksfromtaiwan.tw/images/authors_img/20200114033913%E6%80%AA%E5%A5%87%E4%BA%8B%E7%89%A9%E6%89%80%E6%89%80%E9%95%B7.png" alt="Featured image of post My First Post" /&gt;</description>
-        </item>
-        <item>
-        <title>Hello Hugo</title>
-        <link>http://localhost:1313/posts/hello-hugo/</link>
-        <pubDate>Fri, 12 Apr 2024 00:09:08 +0800</pubDate>
-        
-        <guid>http://localhost:1313/posts/hello-hugo/</guid>
-        <description> # test hello world </description>
-        </item>
-        <item>
+        <lastBuildDate>Fri, 12 Apr 2024 01:41:43 +0800</lastBuildDate><atom:link href="https://ghosttown522.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
-        <link>http://localhost:1313/page/archives/</link>
+        <link>https://ghosttown522.github.io/page/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/page/archives/</guid>
+        <guid>https://ghosttown522.github.io/page/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown Syntax Guide</title>
-        <link>http://localhost:1313/posts/markdown-syntax/</link>
+        <link>https://ghosttown522.github.io/posts/markdown-syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/posts/markdown-syntax/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/markdown-syntax/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+        <guid>https://ghosttown522.github.io/posts/markdown-syntax/</guid>
+        <description>&lt;img src="https://ghosttown522.github.io/posts/markdown-syntax/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
         </item>
         <item>
         <title>Rich Content</title>
-        <link>http://localhost:1313/posts/rich-content/</link>
+        <link>https://ghosttown522.github.io/posts/rich-content/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/posts/rich-content/</guid>
+        <guid>https://ghosttown522.github.io/posts/rich-content/</guid>
         <description>&lt;p&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
         </item>
         <item>
         <title>Placeholder Text</title>
-        <link>http://localhost:1313/posts/placeholder-text/</link>
+        <link>https://ghosttown522.github.io/posts/placeholder-text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/posts/placeholder-text/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+        <guid>https://ghosttown522.github.io/posts/placeholder-text/</guid>
+        <description>&lt;img src="https://ghosttown522.github.io/posts/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
         </item>
         <item>
         <title>Emoji Support</title>
-        <link>http://localhost:1313/posts/emoji-support/</link>
+        <link>https://ghosttown522.github.io/posts/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/posts/emoji-support/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+        <guid>https://ghosttown522.github.io/posts/emoji-support/</guid>
+        <description>&lt;img src="https://ghosttown522.github.io/posts/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         </item>
         <item>
         <title>About</title>
-        <link>http://localhost:1313/page/about/</link>
+        <link>https://ghosttown522.github.io/page/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/page/about/</guid>
+        <guid>https://ghosttown522.github.io/page/about/</guid>
         <description>Written in Go, Hugo is an open source static site generator available under the Apache License 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
 https://github.com/yuin/goldmark https://github.</description>
         </item>
         <item>
         <title>Links</title>
-        <link>http://localhost:1313/page/links/</link>
+        <link>https://ghosttown522.github.io/page/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/page/links/</guid>
+        <guid>https://ghosttown522.github.io/page/links/</guid>
         <description>To use this feature, add links section to frontmatter.
 This page&amp;rsquo;s frontmatter:
 links: - title: GitHub description: GitHub is the world&amp;#39;s largest software development platform. website: https://github.com image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png - title: TypeScript description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. website: https://www.typescriptlang.org image: ts-logo-128.jpg image field accepts both local and external images.</description>
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:1313/page/search/</link>
+        <link>https://ghosttown522.github.io/page/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/page/search/</guid>
+        <guid>https://ghosttown522.github.io/page/search/</guid>
         <description></description>
         </item>
         
